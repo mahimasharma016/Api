@@ -1,0 +1,16 @@
+{
+    "google":[
+        {
+            "price":10,
+            "main_quantity":8,
+            "name":"google_stocks"
+        }
+    ],
+    "apple":[
+        {
+            "price":87,
+            "main_quantity":16,
+            "name":"apple_stocks"
+        }
+    ]
+}
